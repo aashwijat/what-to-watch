@@ -1,2 +1,3 @@
 # what-to-watch
- Movie / Series selector project
+ Movie and Series Selector - Automating Decision Making
+ 
